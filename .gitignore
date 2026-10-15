@@ -1,0 +1,3 @@
+work/
+*.keystore
+__pycache__/
